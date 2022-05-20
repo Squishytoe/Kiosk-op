@@ -1,2 +1,2 @@
 # Kiosk-op
-Open source kiosk application from small businesses
+Open source kiosk for small businesses
